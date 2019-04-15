@@ -1,0 +1,9 @@
+[package]
+name = "boot"
+version = "0.0.1"
+authors = ["Simon Farre <simon.farre.cx@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+panic-abort = "0.3.1"
+r0 = "*"
